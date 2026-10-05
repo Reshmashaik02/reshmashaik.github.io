@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://reshmashaik02.github.io/reshmashaik.github.io/sitemap.xml
